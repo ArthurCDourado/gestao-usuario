@@ -1,2 +1,2 @@
 # meat-app-angular
-Projeto angular ifood genérico 
+Projeto angular ifood genérico xD
